@@ -1,5 +1,5 @@
 # Introduction to Windows Registry Forensics
-## Lab Guide for Non-Computing Students
+## Lab Guide for Computer Forensics 2 Students
 
 ### Overview
 The Windows Registry is a hierarchical database that stores crucial system and application configuration data. In computer forensics, the Registry often contains valuable evidence about user activities, installed programs, and system changes.
