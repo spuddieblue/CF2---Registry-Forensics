@@ -1,4 +1,4 @@
-# Fun Registry Exploration Exercises
+# Registry Exploration Exercises
 ## Getting Comfortable with the Windows Registry
 
 ### Exercise 1: "What's Your Windows Story?"
