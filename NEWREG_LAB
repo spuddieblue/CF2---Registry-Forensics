@@ -15,3 +15,12 @@ Your task is to investigate potential unauthorized data access involving both a 
    - Type regedit and press Enter
 
 2. **Navigate to the following registry key:**
+   `HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\USBSTOR`
+
+3. **Task:**
+   - Explore the subkeys listed under USBSTOR
+   - Identify and document the following details of the connected USB pen drive:
+     - Manufacturer
+     - Model
+     - Serial Number
+     - Device Class (if available)
